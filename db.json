@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo con Álvaro"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo con Álvaro"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo con Álvaro"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo con Álvaro"
+    },
+    {
+      "nombre": "TestPost",
+      "empresa": "Alvaro.sl",
+      "email": "alvarodawnarganes@gmail.com",
+      "telefono": "616248343",
+      "notas": "Si funciona a la primera es que soy el mejor",
+      "id": 6
+    }
+  ]
+}
